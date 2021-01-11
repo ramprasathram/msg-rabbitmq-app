@@ -1,0 +1,13 @@
+package com.sano.coding.msgrabbitmqapp;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MsgRabbitmqAppApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MsgRabbitmqAppApplication.class, args);
+	}
+
+}
